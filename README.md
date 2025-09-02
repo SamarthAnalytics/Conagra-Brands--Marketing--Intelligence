@@ -12,12 +12,12 @@ Analyzed key drivers of real vs. alternative meat sales for Conagra Brands using
 - Shriya Dubey  
 - Pratham Khubchandani  
 
----
+----
 
 ## Project Overview
 This project analyzes why real meat products significantly outperform alternative meats in sales. By studying factors like packaging, cooking instructions, regional availability, and product popularity, we identify drivers of purchasing behavior and offer strategic recommendations to increase alternative meat revenue for Conagra Brands.
 
----
+----
 
 ## Hypothesis
 "If we create similar purchase experiences for real and alternative meat products, revenue from alternative meats will increase."
