@@ -1,4 +1,4 @@
-# Conagra-Brands--Business-Analytics
+# Conagra-Brands--Marketing--Intelligence
 Analyzed key drivers of real vs. alternative meat sales for Conagra Brands using feature engineering and machine learning; identified product, packaging, and availability factors impacting revenue.
 
 # Conagra Brands: Real vs. Alternative Meat Sales Analysis
